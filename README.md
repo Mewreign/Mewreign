@@ -1,16 +1,3 @@
-### Hi there 👋
-
-<!--
-**Mewreign/Mewreign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Fighting Game
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...       My progress so far
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...      He/Him
-- ⚡ Fun fact: ...
--->
+Hello Im Mckinley and i like fighting games and i make games on unity
+Im a 10/10
+Gitdating site idea maker
